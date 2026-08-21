@@ -1,0 +1,4 @@
+1787356792s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/right_lick_time/data/.zarray?versionId=xf5b010nORkhhsSD4qj7OVB6eViP.SH4
+1787356792s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2Fright_lick_time%2Fdata%2F.zarray&download=true
+1787356792s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/right_lick_time/timestamps/.zarray?versionId=xQgiWenEaeqnzM5TSfn_lyhIrDBnc8.n
+1787356792s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2Fright_lick_time%2Ftimestamps%2F.zarray&download=true
