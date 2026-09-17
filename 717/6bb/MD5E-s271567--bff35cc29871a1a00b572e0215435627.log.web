@@ -1,2 +1,4 @@
 1787356783s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/G_1_bright_mc/data/0?versionId=omo22ulxEAb5D7CaGNyr5t4F.vrxqJX_
 1787356783s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FG_1_bright_mc%2Fdata%2F0&download=true
+1789674839s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/G_TH-L_bright_mc/data/0?versionId=rKubR641s0E4MNI6E3a2rZ0aUSYjeDAQ
+1789674839s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FG_TH-L_bright_mc%2Fdata%2F0&download=true

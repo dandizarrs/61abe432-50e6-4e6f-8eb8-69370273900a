@@ -1,2 +1,4 @@
 1787356790s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_2_bright/data/0?versionId=kuu.C5r1ahJLux6CKPTxmj18K24wHAc6
 1787356790s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_2_bright%2Fdata%2F0&download=true
+1789674839s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_Gi-L_bright/data/0?versionId=4y7rz2khbrUeh4tCqpj4BdVhfXg2lFgL
+1789674839s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_Gi-L_bright%2Fdata%2F0&download=true

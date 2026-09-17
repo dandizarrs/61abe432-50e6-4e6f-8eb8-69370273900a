@@ -8,3 +8,5 @@
 1787356793s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=identifier%2F.zarray&download=true
 1787356796s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/session_description/.zarray?versionId=7QYK2lUgmQfanIMXqj.6ghJ1cifVxCC8
 1787356796s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=session_description%2F.zarray&download=true
+1789674843s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/general/source_script/.zarray?versionId=yBGJKBKeqRf2WruKwp8Q6H8JN8kSebmo
+1789674843s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=general%2Fsource_script%2F.zarray&download=true

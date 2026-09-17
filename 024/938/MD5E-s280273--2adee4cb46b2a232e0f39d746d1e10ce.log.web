@@ -1,2 +1,4 @@
 1787356788s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_0_tri-exp_mc/data/1?versionId=nrjuLBGIi9UD46chuLU9Ttv5ZUbY7tDp
 1787356788s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_0_tri-exp_mc%2Fdata%2F1&download=true
+1789674842s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_PL-L_tri-exp_mc/data/1?versionId=07p8ysFquHaIB2vElXr9HRserbsVFrQo
+1789674842s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_PL-L_tri-exp_mc%2Fdata%2F1&download=true

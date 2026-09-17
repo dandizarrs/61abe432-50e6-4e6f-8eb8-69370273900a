@@ -1,2 +1,4 @@
 1787356790s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_2/data/0?versionId=naSF2kBoOTYpdvMXnc5w9U5Rryf8cizv
 1787356790s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_2%2Fdata%2F0&download=true
+1789674839s 1 https://dandiarchive.s3.amazonaws.com/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/acquisition/Iso_Gi-L/data/0?versionId=sKg0_FpVbYsm8kPkBSJilS2f.LC9HI84
+1789674839s 1 https://api.dandiarchive.org/api/zarr/61abe432-50e6-4e6f-8eb8-69370273900a/files?prefix=acquisition%2FIso_Gi-L%2Fdata%2F0&download=true
